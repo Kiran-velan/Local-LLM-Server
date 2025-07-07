@@ -1,0 +1,29 @@
+# Byte-compiled
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Editor/IDE settings
+.vscode/
+
+# Logs
+*.log
+ollama.log
+
+# Ollama model cache (local user)
+.ollama/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Backup files
+*~
+*.bak
